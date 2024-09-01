@@ -25,4 +25,4 @@ The machine learning model effectively predicts the most suitable crop for farml
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AdewumiA/Cropdation
+   git clone https://github.com/ramkotirk/Crop-Recommendation-System
