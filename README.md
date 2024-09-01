@@ -20,9 +20,3 @@ This project involves developing a machine learning model to predict the most su
 ## Summary of Conclusions
 
 The machine learning model effectively predicts the most suitable crop for farmland with high accuracy. The web interface enhances user experience by providing a seamless platform for users to input data and receive real-time predictions.
-
-## Installation and Usage Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/ramkotirk/Crop-Recommendation-System
